@@ -13,7 +13,7 @@ print(5+6)
 6 Guþonoka Jevgeòija
 
 7 Isaèenko Aleksandrs
-
+a+b=c
 8 Komaðilo Dmitrijs
 
 9 Lukjanèikova Darja
